@@ -30,6 +30,7 @@
     "jws": "^4.0.0",
     "migrate": "^2.0.1",
     "nordigen-node": "^1.2.6",
+    "plaid": "^20.0.0",
     "uuid": "^9.0.0"
   },
   "devDependencies": {

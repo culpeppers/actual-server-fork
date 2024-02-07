@@ -11,6 +11,9 @@ export const SecretName = {
   gocardless_secretKey: 'gocardless_secretKey',
   simplefin_token: 'simplefin_token',
   simplefin_accessKey: 'simplefin_accessKey',
+  plaid_clientID: 'plaid_clientID',
+  plaid_secret: 'plaid_secret',
+  plaid_accessToken: 'plaid_accessToken',
 };
 
 class SecretsDb {
